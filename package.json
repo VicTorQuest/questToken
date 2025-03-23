@@ -1,0 +1,27 @@
+{
+  "name": "quest_token",
+  "version": "1.0.0",
+  "description": "An erc20 token on testnet = ",
+  "main": "run.js",
+  "scripts": {
+    "test": "npm run scripts/run.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VicTorQuest/questToken.git"
+  },
+  "author": "Victor Okolie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VicTorQuest/questToken/issues"
+  },
+  "homepage": "https://github.com/VicTorQuest/questToken#readme",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "@nomicfoundation/hardhat-verify": "^2.0.13",
+    "@openzeppelin/contracts": "^5.2.0",
+    "dotenv": "^16.4.7",
+    "hardhat": "^2.22.19",
+    "ipfs": "^0.66.1"
+  }
+}
