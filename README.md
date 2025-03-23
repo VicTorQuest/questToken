@@ -1,7 +1,5 @@
 # Quest (QST) - ERC20 Token on Sepolia Testnet
 
-![Quest Logo](https://d2jyozzshqcznhoerxoryrlgi45m4zb4qwe7fe7hca6x5xnzfd3a.arweave.net/HpOHZzI8BZadxI3dHEVmRzrOZDyFifKT5xA9ft25KPY)
-
 A standard ERC20 token deployed on the Sepolia testnet using OpenZeppelin and Hardhat. This token serves as a test asset for decentralized applications.
 
 ---
@@ -22,12 +20,14 @@ A standard ERC20 token deployed on the Sepolia testnet using OpenZeppelin and Ha
 
 ---
 
-## Token Preview
-| Logo (128x128) | MetaMask Display |
-|----------------|------------------|
-| ![Quest Logo](./Quest.png) | ![MetaMask Preview](./images/metamask-preview.png) |
-
-*Logo hosted on arweave with ardrive: `https://d2jyozzshqcznhoerxoryrlgi45m4zb4qwe7fe7hca6x5xnzfd3a.arweave.net/HpOHZzI8BZadxI3dHEVmRzrOZDyFifKT5xA9ft25KPY`*  
-*MetaMask screenshot shows 1,000,000 QST balance.*
+**Token Logo**  
+The token logo is hosted on Arweave:  
+[![Quest Logo](https://d2jyozzshqcznhoerxoryrlgi45m4zb4qwe7fe7hca6x5xnzfd3a.arweave.net/HpOHZzI8BZadxI3dHEVmRzrOZDyFifKT5xA9ft25KPY)](https://d2jyozzshqcznhoerxoryrlgi45m4zb4qwe7fe7hca6x5xnzfd3a.arweave.net/HpOHZzI8BZadxI3dHEVmRzrOZDyFifKT5xA9ft25KPY)  
+*Click the image to view the logo.*
 
 ---
+
+## Token Preview
+**MetaMask Display**  
+![MetaMask Preview](./metamask-preview.png)  
+*Screenshot showing 1,000,000 MTK balance in MetaMask.*
